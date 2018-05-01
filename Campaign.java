@@ -1,4 +1,4 @@
-package yigitersan;
+package 342;
 
 public class Campaign {
 	String title;
@@ -45,5 +45,4 @@ public class Campaign {
 		this.estimatedCost=estimatedCost;
 		
 	}
-
 }

@@ -1,4 +1,4 @@
-package yigitersan;
+package 342;
 
 public class AddNewCampaign {
 

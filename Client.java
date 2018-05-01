@@ -1,4 +1,4 @@
-package yigitersan;
+package 342;
 
 public class Client {
 	public String companyName;
@@ -31,5 +31,6 @@ public class Client {
 		
 		
 	}
-
 }
+
+
